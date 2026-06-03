@@ -11,10 +11,10 @@ Visualize traffic patterns using charts and graphs.
 
 📂 Dataset
 The dataset contains traffic-related information such as:
-Junction id
-Timestamp
-Vehicle Count
-Average Speed
+Junction id,
+Timestamp,
+Vehicle Count,
+Average Speed,
 
 🛠️ Technologies Used
 Pandas
